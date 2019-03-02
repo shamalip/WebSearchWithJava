@@ -1,5 +1,5 @@
 # WebSearchWithJava
-Indexer + Search on crawled documents using Hadoop Map Reduce.
+Indexer for crawled documents using Hadoop Map Reduce.
 
 
 ## Inverted Index Creation
